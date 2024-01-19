@@ -1,5 +1,6 @@
-## Aprendendo Python 
+## Aprendendo GIT
 
-LINK CURSO
+[LINK CURSO] (https://www.youtube.com/watch?v=Zwv9qRyVeU4)
+![Imagem curso](imgres.html)
 
-Aprendendo comandoS GIT
+- Aprendendo comandoS GIT
